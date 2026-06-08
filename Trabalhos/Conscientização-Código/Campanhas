@@ -1,0 +1,64 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+
+<html>
+<head>
+    <title>Campanhas - Abril Laranja</title>
+</head>
+
+<body bgcolor="#BB8828">
+
+<table width="100%" border="1">
+
+<tr bgcolor="#E68A00">
+    <td colspan="2" align="center">
+        <h1><font color="white">Campanhas de Conscientização</font></h1>
+    </td>
+</tr>
+
+<tr>
+
+<td width="20%" valign="top" bgcolor="#FFD699">
+    <a href="index.html">Início</a><br><br>
+    <a href="campanhas.html">Campanhas</a><br><br>
+    <a href="ongs.html">ONGs</a><br><br>
+    <a href="leis.html">Leis</a><br><br>
+    <a href="sobre.html">Sobre</a>
+</td>
+
+<td width="80%" valign="top">
+
+    <h2>Ações do Abril Laranja</h2>
+
+    <ul>
+        <li>Campanhas de adoção responsável.</li>
+        <li>Divulgação de informações sobre maus-tratos.</li>
+        <li>Incentivo à denúncia de violência contra animais.</li>
+        <li>Publicações educativas nas redes sociais.</li>
+    </ul>
+
+    <h3>Como ajudar?</h3>
+
+    <ol>
+        <li>Adote um animal.</li>
+        <li>Denuncie maus-tratos.</li>
+        <li>Ajude ONGs da sua cidade.</li>
+        <li>Compartilhe informações.</li>
+    </ol>
+
+</td>
+
+</tr>
+
+<tr bgcolor="#E68A00">
+    <td colspan="2" align="center">
+        Projeto Escolar - Abril Laranja
+    </td>
+</tr>
+
+</table>
+<center>
+    <img src="arara.jfif" width="700" height="500">
+</center>
+
+</body>
+</html>
