@@ -1,0 +1,71 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+
+<html>
+<head>
+    <title>Sobre o Projeto</title>
+</head>
+
+<body bgcolor="#BB8828">
+
+<table width="100%" border="1">
+
+<tr bgcolor="#E68A00">
+    <td colspan="2" align="center">
+        <h1><font color="white">Sobre o Projeto</font></h1>
+    </td>
+</tr>
+
+<tr>
+
+<td width="20%" valign="top" bgcolor="#FFD699">
+    <a href="index.html">Início</a><br><br>
+    <a href="campanhas.html">Campanhas</a><br><br>
+    <a href="ongs.html">ONGs</a><br><br>
+    <a href="leis.html">Leis</a><br><br>
+    <a href="sobre.html">Sobre</a>
+</td>
+
+<td width="80%" valign="top">
+
+    <h2>Objetivo do Site</h2>
+
+    <p>
+        Este site foi desenvolvido para conscientizar as pessoas
+        sobre a importância da proteção e do respeito aos animais.
+    </p>
+
+    <h3>Autores</h3>
+
+    <ul>
+        <li>Cauan Machado de Souza</li>
+    </ul>
+
+    <h3>Professor</h3>
+
+    <p>José Madureira</p>
+
+    <h3>Referências</h3>
+
+    <ul>
+        <li>https://www.gov.br</li>
+        <li>https://www.amparanimal.org.br</li>
+        <li>https://ilm.org.br</li>
+    </ul>
+
+</td>
+
+</tr>
+
+<tr bgcolor="#E68A00">
+    <td colspan="2" align="center">
+        Projeto Escolar - Abril Laranja
+    </td>
+</tr>
+
+</table>
+<center>
+    <img src="gravata.jfif" width="500" height="350">
+</center>
+
+</body>
+</html>
