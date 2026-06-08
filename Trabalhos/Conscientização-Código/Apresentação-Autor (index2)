@@ -1,0 +1,18 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Apresentação</title>
+</head>
+<body bgcolor="#D3B783"></body>
+    <center>
+    <h2><font color="black">Autor: Cauan Machado, 1C2</font></h2>
+    <h3><font color="black">Objetivo: realizar um "site" sobre a conscientização da importância dos animais, <br> com o uso exclusivo de HTML com separação por páginas.</font></h3>
+    <h3><font color="black">Sobre: este trabalho foi desenvolvido no VSCode, com somente pastas em ".html".</font></h3>
+    <h3><font color="black">Caso deseje retornar ao início, aqui está o redirecionamento:</font></h3>
+     <a href="index.html">Redirecionar</a><br><br>
+<img src="tucano.jpg" width="800" height="500">
+    </center>
+</body>
+</html>
