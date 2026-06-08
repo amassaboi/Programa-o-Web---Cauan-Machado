@@ -1,0 +1,67 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+
+<html>
+<head>
+    <title>Leis - Abril Laranja</title>
+</head>
+
+<body bgcolor="#BB8828">
+
+<table width="100%" border="1">
+
+<tr bgcolor="#E68A00">
+    <td colspan="2" align="center">
+        <h1><font color="white">Leis de Proteção Animal</font></h1>
+    </td>
+</tr>
+
+<tr>
+
+<td width="20%" valign="top" bgcolor="#FFD699">
+    <a href="index.html">Início</a><br><br>
+    <a href="campanhas.html">Campanhas</a><br><br>
+    <a href="ongs.html">ONGs</a><br><br>
+    <a href="leis.html">Leis</a><br><br>
+    <a href="sobre.html">Sobre</a>
+</td>
+
+<td width="80%" valign="top">
+
+    <h2>Proteção dos Animais no Brasil</h2>
+
+    <p>
+        A Lei nº 9.605/1998 estabelece punições para quem pratica
+        maus-tratos contra animais.
+    </p>
+
+    <p>
+        Em 2020, a Lei nº 14.064 aumentou as penas para maus-tratos
+        contra cães e gatos.
+    </p>
+
+    <h3>Exemplos de maus-tratos</h3>
+
+    <ul>
+        <li>Abandono.</li>
+        <li>Agressões físicas.</li>
+        <li>Falta de alimentação.</li>
+        <li>Manter animais em locais inadequados.</li>
+    </ul>
+
+</td>
+
+</tr>
+
+<tr bgcolor="#E68A00">
+    <td colspan="2" align="center">
+        Projeto Escolar - Abril Laranja
+    </td>
+</tr>
+
+</table>
+<center>
+    <img src="gato.jpg" width="700" height="500">
+</center>
+
+</body>
+</html>
