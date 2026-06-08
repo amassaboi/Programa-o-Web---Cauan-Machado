@@ -1,0 +1,99 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+
+<html>
+<head>
+    <title>Abril Laranja - Conscientização Animal</title>
+</head>
+
+<body bgcolor="#BB8828">
+
+<table width="100%" border="1">
+
+    <!-- TOPO -->
+    <tr bgcolor="#E68A00">
+        <td colspan="2" align="center">
+            <h1><font color="white">Conscientização Animal</font></h1>
+            <h2><font color="white">Abril Laranja - Proteção e Respeito aos Animais</font></h2>
+        </td>
+    </tr>
+
+    <!-- MENU E CONTEÚDO -->
+    <tr>
+
+        <!-- MENU -->
+        <td width="20%" valign="top" bgcolor="#FFD699">
+
+            <b>Menu</b><br><br>
+
+            <a href="index2.html">Apresentação-Autor</a><br><br>
+
+            <a href="campanhas.html">Campanhas</a><br><br>
+
+            <a href="ongs.html">ONGs</a><br><br>
+
+            <a href="leis.html">Leis</a><br><br>
+
+            <a href="sobre.html">Sobre</a>
+
+        </td>
+
+        <!-- CONTEÚDO -->
+        <td width="80%" valign="top">
+
+            <h2>O que é o Abril Laranja?</h2>
+
+<p>
+    O Abril Laranja é uma campanha internacional dedicada à
+    conscientização e prevenção da crueldade contra os animais.
+    A iniciativa busca informar a população sobre a importância
+    do respeito, da proteção e do cuidado com todos os seres vivos,
+    combatendo práticas de maus-tratos, abandono e violência.
+</p>
+
+<p>
+    Durante o mês de abril, diversas organizações, protetores
+    independentes e instituições realizam ações educativas para
+    incentivar a adoção responsável, promover o bem-estar animal
+    e orientar as pessoas sobre como denunciar situações de abuso.
+    Essas campanhas ajudam a criar uma sociedade mais consciente
+    e comprometida com a defesa dos direitos dos animais.
+</p>
+
+<p>
+    Os animais desempenham um papel importante em nosso planeta
+    e merecem viver com dignidade, alimentação adequada, cuidados
+    veterinários e um ambiente seguro. A conscientização é uma das
+    principais ferramentas para reduzir o abandono e garantir que
+    cães, gatos, aves e outros animais sejam tratados com respeito.
+</p>
+
+<p>
+    O Abril Laranja também contribui para divulgar leis de proteção
+    animal existentes no Brasil e em outros países, mostrando que
+    maus-tratos são crimes e podem resultar em punições. Dessa forma,
+    a campanha incentiva a responsabilidade da população e fortalece
+    a luta pela defesa dos animais.
+</p>
+            <h3>Autores</h3>
+
+            <ul>
+                <li>Cauan Machado de Souza</li>
+            </ul>
+
+        </td>
+
+    </tr>
+
+    <!-- RODAPÉ -->
+    <tr bgcolor="#E68A00">
+        <td colspan="2" align="center">
+            Projeto Escolar - Abril Laranja
+        </td>
+    </tr>
+
+</table>
+<center>
+<img src="laranja.jpg" width="900" height="500">
+</center>
+</body>
+</html>
